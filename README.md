@@ -6,4 +6,3 @@ I love creating, designing and teaching.
 If you want, you can check me out on other sites as well. Here are some links as an example:
 - [LinkedIn](https://linkedin.com/in/mbirnbach)
 - [GitHub - you are already here :)](https://github.com/mbirnbach)
-- [Twitter](https://twitter.com/marvinbirnbach)
